@@ -1,0 +1,1 @@
+this file is about pug intergration with layouts
